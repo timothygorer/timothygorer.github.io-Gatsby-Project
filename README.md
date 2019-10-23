@@ -9,7 +9,7 @@ This repo contains the source code for [timothygorer.github.io](https://timothyg
 git clone https://github.com/timothygorer/timothygorer.github.io-Gatsby-Project.git
 
 # Navigate into repository
-cd timothygorer.github.io
+cd timothygorer.github.io-Gatsby-Project
 
 # Install the dependencies
 npm install
