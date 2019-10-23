@@ -1,0 +1,27 @@
+{
+  "name": "timothygorer.github.io",
+  "version": "0.0.0",
+  "author": "imis <timogorer@gmail.com>",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages --dist public --repo git@github.com:timothygorer/timothygorer.github.io.git --branch master"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.14",
+    "@mdx-js/mdx": "^1.1.0",
+    "@mdx-js/react": "^1.0.27",
+    "gatsby": "^2.13.33",
+    "gatsby-plugin-mdx": "^1.0.15",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-theme-ui": "^0.2.6",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "theme-ui": "^0.2.16",
+    "typeface-barlow": "0.0.71",
+    "typeface-inter": "^3.7.0"
+  }
+}
