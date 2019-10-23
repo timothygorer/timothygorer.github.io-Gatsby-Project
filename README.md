@@ -6,7 +6,7 @@ This repo contains the source code for [timothygorer.github.io](https://timothyg
 
 ```shell
 # Download the repository
-git clone <repo link>
+git clone https://github.com/timothygorer/timothygorer.github.io-Gatsby-Project.git
 
 # Navigate into repository
 cd timothygorer.github.io
